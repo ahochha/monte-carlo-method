@@ -1,5 +1,5 @@
 # Monte Carlo Method
-This program estimates the value of PI using the monte carlo method and parellel threads. This was a fun little program completed while learning about OpenMP in SDSU's Operating Systems course.
+This program estimates the value of PI using the monte carlo method and parellel threads. This was a fun little program completed while learning about OpenMP in SDSU's Operating Systems course. It was designed to run in a Linux environment.
 
 ## How It Works
 1. The user enters the sample size and number of threads they would like to use on the command line or when prompted
